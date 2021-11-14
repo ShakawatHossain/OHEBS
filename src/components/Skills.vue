@@ -1,6 +1,8 @@
 <template>
-	<div class="row" v-for="skill in skills" :key="skill">
-		<div class="pills" @click="delSkill(skill)" >{{ skill }}</div>
+	<div class="row" >
+		<span v-for="skill in skills" :key="skill">
+			<span class="pills" @click="delSkill(skill)" >{{ skill }}</span>
+		</span>
 	</div>
 </template>
 <script>

@@ -4,22 +4,9 @@
       id="cv"
       :height="height"
       :width="width"
+      
     >
     </canvas>
-    <!-- <div hidden>
-      {{ backgroundColor }}
-      {{ foregroundColor }}
-      {{ text }}
-      {{ size }}
-      {{ font }}
-      {{ baseline }}
-      {{ isTransparent }}
-      {{ blur }}
-      {{ contrast }}
-      {{ grayscale }}
-      {{ hueRotate }}
-      {{ angle }}
-    </div> -->
   </div>
 </template>
 

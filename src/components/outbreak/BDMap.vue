@@ -3,11 +3,10 @@
 	<div class="row">
 		<div class="col-md-3"><p>Filter according to year</p></div>
 		<div class="col-md-9">
-			<select class="form-control" @change="onChange">
-				<option value="all">All</option>
-				<option value="2021">2021</option>
-				<option value="2020">2020</option>
-				<option value="2019">2019</option>
+			<select class="form-control" v-model="year" @change="onChange">
+				<option value="0">All</option>
+				<option v-for="yr in year_list" :key="yr">{{yr}}</option>
+				
 			</select>
 		</div>
 	</div>
@@ -17,56 +16,60 @@
 import * as am4core from "@amcharts/amcharts4/core";
 import * as am4maps from "@amcharts/amcharts4/maps";
 import am4geodata_bangladesh from "@amcharts/amcharts4-geodata/bangladeshHigh";
-
+import axios from 'axios';
 export default{
 	name:'BDMap',
 	data(){
 		return{
+			year:'',
+			year_list:[],
+			all_data:[],
 			pdata : [{
 			"id": "BD-A",
 			"name": "Barisal",
-			"value": 6
+			"value": 0
 			// "fill": am4core.color("#ff8000")
 			}, {
 				"id": "BD-B",
 				"name": "Chattogram",
-				"value": 7
+				"value": 0
 				// "fill": am4core.color("#ff6a00")
 			}, {
 				"id": "BD-C",
 				"name": "Dhaka",
-				"value": 20
+				"value": 0
 				// "fill": am4core.color("#ff1100")
 			}, {
 				"id": "BD-D",
 				"name": "Khulna",
-				"value": 6
+				"value": 0
 				// "fill": am4core.color("#ff8000")
 			}, {
 				"id": "BD-E",
 				"name": "Rajshahi",
-				"value": 9
+				"value": 0
 				// "fill": am4core.color("#ff4400")
 			}, {
 				"id": "BD-F",
 				"name": "Rangpur",
-				"value": 4
+				"value": 0
 				// "fill": am4core.color("#ffbb00")
 			}, {
 				"id": "BD-G",
 				"name": "Shylet",
-				"value": 4
+				"value": 0
 				// "fill": am4core.color("#ffbb00")
 			}, {
 				"id": "BD-H",
 				"name": "Mymensingh",
-				"value": 1
+				"value": 0
 				// "fill": am4core.color("#eaff00")
 			}]
 		}
 	},
 	mounted(){
 		this.crt_chart(this.pdata);
+		this.getEventList();
 	},
 	unmounted() {
 		if (this.chart) {
@@ -84,9 +87,10 @@ export default{
 			var polygonTemplate = polygonSeries.mapPolygons.template;
 			polygonTemplate.tooltipText = "{name} : {value}";
 			var m = this;
+			var all_data_collection = this.all_data;
 			polygonTemplate.events.on("hit", function(ev) {
 				console.log(ev.target.dataItem.dataContext.name);
-				m.$emit('polyClicked',ev.target.dataItem.dataContext.name);
+				m.$emit('polyClicked',ev.target.dataItem.dataContext.name,all_data_collection);
 				// custom_emit(ev.target.dataItem.dataContext.name);
 				
 			});
@@ -117,48 +121,83 @@ export default{
 		},
 		onChange(ev){
 			console.log(ev.target.value);
-			var cpdata = [{
-			"id": "BD-A",
-			"name": "Barisal",
-			"value": 6
-			// "fill": am4core.color("#ff8000")
-			}, {
-				"id": "BD-B",
-				"name": "Chattogram",
-				"value": 5
-				// "fill": am4core.color("#ff6a00")
-			}, {
-				"id": "BD-C",
-				"name": "Dhaka",
-				"value": 4
-				// "fill": am4core.color("#ff1100")
-			}, {
-				"id": "BD-D",
-				"name": "Khulna",
-				"value": 3
-				// "fill": am4core.color("#ff8000")
-			}, {
-				"id": "BD-E",
-				"name": "Rajshahi",
-				"value": 2
-				// "fill": am4core.color("#ff4400")
-			}, {
-				"id": "BD-F",
-				"name": "Rangpur",
-				"value": 1
-				// "fill": am4core.color("#ffbb00")
-			}, {
-				"id": "BD-G",
-				"name": "Shylet",
-				"value": 2
-				// "fill": am4core.color("#ffbb00")
-			}, {
-				"id": "BD-H",
-				"name": "Mymensingh",
-				"value": 1
-				// "fill": am4core.color("#eaff00")
-			}];
-			this.crt_chart(cpdata);
+			// var cpdata = [{
+			// "id": "BD-A",
+			// "name": "Barisal",
+			// "value": 6
+			// // "fill": am4core.color("#ff8000")
+			// }, {
+			// 	"id": "BD-B",
+			// 	"name": "Chattogram",
+			// 	"value": 5
+			// 	// "fill": am4core.color("#ff6a00")
+			// }, {
+			// 	"id": "BD-C",
+			// 	"name": "Dhaka",
+			// 	"value": 4
+			// 	// "fill": am4core.color("#ff1100")
+			// }, {
+			// 	"id": "BD-D",
+			// 	"name": "Khulna",
+			// 	"value": 3
+			// 	// "fill": am4core.color("#ff8000")
+			// }, {
+			// 	"id": "BD-E",
+			// 	"name": "Rajshahi",
+			// 	"value": 2
+			// 	// "fill": am4core.color("#ff4400")
+			// }, {
+			// 	"id": "BD-F",
+			// 	"name": "Rangpur",
+			// 	"value": 1
+			// 	// "fill": am4core.color("#ffbb00")
+			// }, {
+			// 	"id": "BD-G",
+			// 	"name": "Shylet",
+			// 	"value": 2
+			// 	// "fill": am4core.color("#ffbb00")
+			// }, {
+			// 	"id": "BD-H",
+			// 	"name": "Mymensingh",
+			// 	"value": 1
+			// 	// "fill": am4core.color("#eaff00")
+			// }];
+			// this.crt_chart(this.pdata);
+			console.log(this.pdata.value);
+			this.getEventList();
+		},
+		getEventList(){
+			axios.get("http://localhost:3000/event_list",{
+				params:{year: this.year}
+			})
+			.then((response) => {
+				if(response.data.data == null){
+					this.alerts = "No List to populate";
+				}else{
+					this.clearValue();
+					// console.log(response.data.data);
+					this.all_data = response.data.data; 
+					var rec_data = response.data.data;
+					rec_data.forEach((rd)=>{
+						
+						if(!this.year_list.includes(new Date(rd.notification_date).getFullYear()))
+							this.year_list.push(new Date(rd.notification_date).getFullYear());
+						this.pdata.forEach((pd)=>{
+							if(pd.name == rd.s_div){
+								console.log("Name matched");
+								pd.value++;
+							}
+						});
+					});
+					this.crt_chart(this.pdata);
+				}
+
+			});
+		},
+		clearValue(){
+			this.pdata.forEach((pd)=>{
+					pd.value=0;
+			});
 		}
 	}
 }

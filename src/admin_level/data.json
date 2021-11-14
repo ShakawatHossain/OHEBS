@@ -1,0 +1,2884 @@
+﻿{
+    "Sheet1": [
+        {
+            "div": "Khulna",
+            "district": "Bagerhat",
+            "upz_name": "Morrelganj Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Bagerhat",
+            "upz_name": "Rampal Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Bagerhat",
+            "upz_name": "Fakirhat Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Bagerhat",
+            "upz_name": "Mongla Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Bagerhat",
+            "upz_name": "Kachua BH Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Bagerhat",
+            "upz_name": "Mollahat Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Bagerhat",
+            "upz_name": "Chitalmari Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Bagerhat",
+            "upz_name": "Sarankhola Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Bagerhat",
+            "upz_name": "Bagerhat Sadar Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Bandarban",
+            "upz_name": "Naikhongchhari Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Bandarban",
+            "upz_name": "Alikadam Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Bandarban",
+            "upz_name": "Thanchi Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Bandarban",
+            "upz_name": "Rowangchhari Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Bandarban",
+            "upz_name": "Lama Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Bandarban",
+            "upz_name": "Bandarban Sadar Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Bandarban",
+            "upz_name": "Ruma Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Barguna",
+            "upz_name": "Betagi Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Barguna",
+            "upz_name": "Taltali Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Barguna",
+            "upz_name": "Bamna Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Barguna",
+            "upz_name": "Amtali Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Barguna",
+            "upz_name": "Patharghata Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Barguna",
+            "upz_name": "Barguna Sadar Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Barisal",
+            "upz_name": "Hijla Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Barisal",
+            "upz_name": "Gournadi Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Barisal",
+            "upz_name": "Agailjhara Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Barisal",
+            "upz_name": "Babuganj Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Barisal",
+            "upz_name": "Banaripara Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Barisal",
+            "upz_name": "Bakerganj Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Barisal",
+            "upz_name": "Mehendiganj Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Barisal",
+            "upz_name": "Wazirpur Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Barisal",
+            "upz_name": "Muladi Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Barisal",
+            "upz_name": "Barisal CC"
+        },
+        {
+            "div": "Barisal",
+            "district": "Barisal",
+            "upz_name": "Barisal Sadar Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Bhola",
+            "upz_name": "Monpura Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Bhola",
+            "upz_name": "Tazumuddin Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Bhola",
+            "upz_name": "Char Fassion Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Bhola",
+            "upz_name": "Daulat Khan Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Bhola",
+            "upz_name": "Burhanuddin Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Bhola",
+            "upz_name": "Lalmohan Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Bhola",
+            "upz_name": "Bhola Sadar Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Bogra",
+            "upz_name": "Kahaloo Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Bogra",
+            "upz_name": "Sariakandi Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Bogra",
+            "upz_name": "Sherpur Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Bogra",
+            "upz_name": "Dhunat Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Bogra",
+            "upz_name": "Gabtali Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Bogra",
+            "upz_name": "Nandigram Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Bogra",
+            "upz_name": "Dupchanchia Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Bogra",
+            "upz_name": "Shibganj Bogra Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Bogra",
+            "upz_name": "Shajahanpur Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Bogra",
+            "upz_name": "Adamdighi Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Bogra",
+            "upz_name": "Sonatola Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Bogra",
+            "upz_name": "Bogra Sadar Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Brahmanbaria",
+            "upz_name": "Banchharampur Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Brahmanbaria",
+            "upz_name": "Akhaura Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Brahmanbaria",
+            "upz_name": "Brahmanbaria Sadar Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Brahmanbaria",
+            "upz_name": "Bijoynagar Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Brahmanbaria",
+            "upz_name": "Kasba Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Brahmanbaria",
+            "upz_name": "Sarail Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Brahmanbaria",
+            "upz_name": "Ashuganj Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Brahmanbaria",
+            "upz_name": "Nabinagar Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Brahmanbaria",
+            "upz_name": "Nasirnagar Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Chandpur",
+            "upz_name": "Chandpur Sadar Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Chandpur",
+            "upz_name": "Matlab (South) Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Chandpur",
+            "upz_name": "Matlab (North) Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Chandpur",
+            "upz_name": "Kachua CP Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Chandpur",
+            "upz_name": "Faridganj Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Chandpur",
+            "upz_name": "Sharasti Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Chandpur",
+            "upz_name": "Haim Char Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Chandpur",
+            "upz_name": "Hajiganj Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Chapai Nawabganj",
+            "upz_name": "Chapai Nababganj Sadar Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Chapai Nawabganj",
+            "upz_name": "Nachole Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Chapai Nawabganj",
+            "upz_name": "Bholahat Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Chapai Nawabganj",
+            "upz_name": "Shibganj NG Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Chapai Nawabganj",
+            "upz_name": "Gomastapur Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Chittagong",
+            "upz_name": "Chalk bazar Thana"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Chittagong",
+            "upz_name": "Chandgaon Thana"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Chittagong",
+            "upz_name": "Lohagora Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Chittagong",
+            "upz_name": "Halishahar Thana"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Chittagong",
+            "upz_name": "Panchlaish Thana"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Chittagong",
+            "upz_name": "Chittagong port Thana"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Chittagong",
+            "upz_name": "Sitakunda Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Chittagong",
+            "upz_name": "Anowara Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Chittagong",
+            "upz_name": "Chittagong CC"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Chittagong",
+            "upz_name": "Sandwip Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Chittagong",
+            "upz_name": "Hathazari Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Chittagong",
+            "upz_name": "Khulshi Thana"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Chittagong",
+            "upz_name": "Fatikchhari Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Chittagong",
+            "upz_name": "Patenga Thana"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Chittagong",
+            "upz_name": "Rangunia Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Chittagong",
+            "upz_name": "Kotwali Thana"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Chittagong",
+            "upz_name": "Patiya Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Chittagong",
+            "upz_name": "Bakalia Thana"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Chittagong",
+            "upz_name": "Banshkhali Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Chittagong",
+            "upz_name": "Akbarshah Thana"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Chittagong",
+            "upz_name": "Doublemooring Thana"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Chittagong",
+            "upz_name": "Satkania Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Chittagong",
+            "upz_name": "Chandanaish Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Chittagong",
+            "upz_name": "Mirsharai Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Chittagong",
+            "upz_name": "Bayejid bostami Thana"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Chittagong",
+            "upz_name": "Raozan Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Chittagong",
+            "upz_name": "Karnaphuli Thana"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Chittagong",
+            "upz_name": "Pahartali Thana"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Chittagong",
+            "upz_name": "Lohagara Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Chittagong",
+            "upz_name": "Sadarghat Thana"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Chittagong",
+            "upz_name": "Boalkhali Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Chuadanga",
+            "upz_name": "Jiban Nagar Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Chuadanga",
+            "upz_name": "Chuadanga Sadar Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Chuadanga",
+            "upz_name": "Damurhuda Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Chuadanga",
+            "upz_name": "Alamdanga Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Comilla",
+            "upz_name": "Barura Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Comilla",
+            "upz_name": "Muradnagar Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Comilla",
+            "upz_name": "Manoharganj Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Comilla",
+            "upz_name": "Comilla Sadar South Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Comilla",
+            "upz_name": "Comilla CC"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Comilla",
+            "upz_name": "Daudkandi Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Comilla",
+            "upz_name": "Titas Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Comilla",
+            "upz_name": "Chauddagram Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Comilla",
+            "upz_name": "Debidwar Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Comilla",
+            "upz_name": "Homna Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Comilla",
+            "upz_name": "Laksham Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Comilla",
+            "upz_name": "Burichang Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Comilla",
+            "upz_name": "Adarsha sadar Thana"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Comilla",
+            "upz_name": "Brahman Para Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Comilla",
+            "upz_name": "Chandina Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Comilla",
+            "upz_name": "Nangalkot Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Comilla",
+            "upz_name": "Meghna Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Comilla",
+            "upz_name": "Comilla Sadar Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Coxbazar",
+            "upz_name": "Teknaf Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Coxbazar",
+            "upz_name": "Kutubdia Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Coxbazar",
+            "upz_name": "Coxs Bazar Sadar Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Coxbazar",
+            "upz_name": "Ramu Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Coxbazar",
+            "upz_name": "Maheshkhali Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Coxbazar",
+            "upz_name": "Chakaria Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Coxbazar",
+            "upz_name": "Ukhia Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Coxbazar",
+            "upz_name": "Pekua Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Bimanbandar Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Uttra Pashchim Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Dhamrai Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Khilkhet Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Paltan Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Chakbazar Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Sutrapur Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Shah Ali Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Mugda Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Ramna Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Shere Bangla Nagar Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Rampura Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Uttarkhan Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Nawabganj Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Savar Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Kalabagan Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Rupnagar Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Bhasantek Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Bangshal Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Turag Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Dhaka CC South"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Shahbag Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Bhatara Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Gulshan Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Cantonment Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Tejgaon Development Circle"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Dhanmondi Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Darussalam Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Jatrabari Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Tejgaon Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Pallabi Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Kamrangichar Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Demra Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Khilgaon Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Gendaria Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Dhaka CC North"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Kadamtali Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Dakkhinkhan Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Uttara Purba Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Lalbag Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Badda Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Wari Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Kafrul Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Tejgaon Shilpa Elaka Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Shyampur Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Mohammadpur Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Sabujbag Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Banani Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Dohar Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Hazaribag Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Motijheel Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Shahjahanpur Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Mirpur Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Adabar Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Newmarket Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Dhaka",
+            "upz_name": "Keraniganj Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Dinajpur",
+            "upz_name": "Birampur Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Dinajpur",
+            "upz_name": "Kaharole Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Dinajpur",
+            "upz_name": "Biral Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Dinajpur",
+            "upz_name": "Khansama Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Dinajpur",
+            "upz_name": "Parbatipur Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Dinajpur",
+            "upz_name": "Bochaganj Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Dinajpur",
+            "upz_name": "Chirir Bandar Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Dinajpur",
+            "upz_name": "Fulbari DP Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Dinajpur",
+            "upz_name": "Ghoraghat Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Dinajpur",
+            "upz_name": "Birganj Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Dinajpur",
+            "upz_name": "Nawabganj DP Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Dinajpur",
+            "upz_name": "Hakimpur Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Dinajpur",
+            "upz_name": "Dinajpur Sadar Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Faridpur",
+            "upz_name": "Sadarpur Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Faridpur",
+            "upz_name": "Char Bhadrasan Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Faridpur",
+            "upz_name": "Saltha Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Faridpur",
+            "upz_name": "Boalmari Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Faridpur",
+            "upz_name": "Nagarkanda Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Faridpur",
+            "upz_name": "Bhanga Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Faridpur",
+            "upz_name": "Modhukhali Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Faridpur",
+            "upz_name": "Alfadanga Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Faridpur",
+            "upz_name": "Faridpur Sadar Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Feni",
+            "upz_name": "Feni Sadar Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Feni",
+            "upz_name": "Daganbhuiyan Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Feni",
+            "upz_name": "Chhagalnaiya Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Feni",
+            "upz_name": "Parshuram Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Feni",
+            "upz_name": "Sonagazi Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Feni",
+            "upz_name": "Fulgazi Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Gaibandha",
+            "upz_name": "Saghata Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Gaibandha",
+            "upz_name": "Fulchhari Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Gaibandha",
+            "upz_name": "Sundarganj Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Gaibandha",
+            "upz_name": "Sadullapur Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Gaibandha",
+            "upz_name": "Palashbari Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Gaibandha",
+            "upz_name": "Gobindaganj Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Gaibandha",
+            "upz_name": "Gaibandha Sadar Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Gazipur",
+            "upz_name": "Kaliganj GZ Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Gazipur",
+            "upz_name": "Gazipur CC"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Gazipur",
+            "upz_name": "Kaliakair Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Gazipur",
+            "upz_name": "Gazipur Sadar Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Gazipur",
+            "upz_name": "Sreepur Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Gazipur",
+            "upz_name": "Joydebpur Thana"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Gazipur",
+            "upz_name": "Tongi Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Gazipur",
+            "upz_name": "Kapasia Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Gopalganj",
+            "upz_name": "Tungipara Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Gopalganj",
+            "upz_name": "Muksudpur Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Gopalganj",
+            "upz_name": "Kashiani Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Gopalganj",
+            "upz_name": "Kotalipara Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Gopalganj",
+            "upz_name": "Gopalganj Sadar Upazila"
+        },
+        {
+            "div": "Shylet",
+            "district": "Habiganj",
+            "upz_name": "Nabiganj Upazila"
+        },
+        {
+            "div": "Shylet",
+            "district": "Habiganj",
+            "upz_name": "Lakhai Upazila"
+        },
+        {
+            "div": "Shylet",
+            "district": "Habiganj",
+            "upz_name": "Ajmiriganj Upazila"
+        },
+        {
+            "div": "Shylet",
+            "district": "Habiganj",
+            "upz_name": "Madhabpur Upazila"
+        },
+        {
+            "div": "Shylet",
+            "district": "Habiganj",
+            "upz_name": "Bahubal Upazila"
+        },
+        {
+            "div": "Shylet",
+            "district": "Habiganj",
+            "upz_name": "Baniachong Upazila"
+        },
+        {
+            "div": "Shylet",
+            "district": "Habiganj",
+            "upz_name": "Chunarughat Upazila"
+        },
+        {
+            "div": "Shylet",
+            "district": "Habiganj",
+            "upz_name": "Habiganj Sadar Upazila"
+        },
+        {
+            "div": "Mymensingh",
+            "district": "Jamalpur",
+            "upz_name": "Jamalpur Sadar Upazila"
+        },
+        {
+            "div": "Mymensingh",
+            "district": "Jamalpur",
+            "upz_name": "Dewanganj Upazila"
+        },
+        {
+            "div": "Mymensingh",
+            "district": "Jamalpur",
+            "upz_name": "Madarganj Upazila"
+        },
+        {
+            "div": "Mymensingh",
+            "district": "Jamalpur",
+            "upz_name": "Bakshiganj Upazila"
+        },
+        {
+            "div": "Mymensingh",
+            "district": "Jamalpur",
+            "upz_name": "Islampur Upazila"
+        },
+        {
+            "div": "Mymensingh",
+            "district": "Jamalpur",
+            "upz_name": "Sarishabari Upazila"
+        },
+        {
+            "div": "Mymensingh",
+            "district": "Jamalpur",
+            "upz_name": "Melandaha Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Jessore",
+            "upz_name": "Bagherpara Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Jessore",
+            "upz_name": "Abhaynagar Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Jessore",
+            "upz_name": "Manirampur Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Jessore",
+            "upz_name": "Keshabpur Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Jessore",
+            "upz_name": "Chaugachha Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Jessore",
+            "upz_name": "Jhikargachha Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Jessore",
+            "upz_name": "Jessore Sadar Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Jessore",
+            "upz_name": "Sharsa Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Jhalokati",
+            "upz_name": "Nalchity Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Jhalokati",
+            "upz_name": "Rajapur Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Jhalokati",
+            "upz_name": "Jhalokati Sadar Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Jhalokati",
+            "upz_name": "Kathalia Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Jhenaidah",
+            "upz_name": "Shailkupa Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Jhenaidah",
+            "upz_name": "Harinakunda Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Jhenaidah",
+            "upz_name": "Jhenaidaha Sadar Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Jhenaidah",
+            "upz_name": "Maheshpur Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Jhenaidah",
+            "upz_name": "Kotchandpur Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Jhenaidah",
+            "upz_name": "Kaliganj JD Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Joypurhat",
+            "upz_name": "Akkelpur Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Joypurhat",
+            "upz_name": "Kalai Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Joypurhat",
+            "upz_name": "Panchbibi Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Joypurhat",
+            "upz_name": "Khetlal Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Joypurhat",
+            "upz_name": "Joypurhat Sadar Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Khagrachhari",
+            "upz_name": "Manikchhari Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Khagrachhari",
+            "upz_name": "Ramgarh Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Khagrachhari",
+            "upz_name": "Dighinala Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Khagrachhari",
+            "upz_name": "Guimara Thana"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Khagrachhari",
+            "upz_name": "Panchhari Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Khagrachhari",
+            "upz_name": "Matiranga Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Khagrachhari",
+            "upz_name": "Khagrachhari Sadar Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Khagrachhari",
+            "upz_name": "Mahalchhari Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Khagrachhari",
+            "upz_name": "Lakshmichhari Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Khulna",
+            "upz_name": "Koyra Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Khulna",
+            "upz_name": "Dacope Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Khulna",
+            "upz_name": "Khulna sadar Thana"
+        },
+        {
+            "div": "Khulna",
+            "district": "Khulna",
+            "upz_name": "Rupsa Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Khulna",
+            "upz_name": "Paikgachha Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Khulna",
+            "upz_name": "Khalishpur Thana"
+        },
+        {
+            "div": "Khulna",
+            "district": "Khulna",
+            "upz_name": "Khulna CC"
+        },
+        {
+            "div": "Khulna",
+            "district": "Khulna",
+            "upz_name": "Sonadanga Thana"
+        },
+        {
+            "div": "Khulna",
+            "district": "Khulna",
+            "upz_name": "Terokhada Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Khulna",
+            "upz_name": "Fultala Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Khulna",
+            "upz_name": "Dighalia Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Khulna",
+            "upz_name": "Khan jahan ali Thana"
+        },
+        {
+            "div": "Khulna",
+            "district": "Khulna",
+            "upz_name": "Dumuria Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Khulna",
+            "upz_name": "Batiaghata Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Kishoreganj",
+            "upz_name": "Mithamain Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Kishoreganj",
+            "upz_name": "Kuliarchar Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Kishoreganj",
+            "upz_name": "Pakundia Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Kishoreganj",
+            "upz_name": "Karimganj Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Kishoreganj",
+            "upz_name": "Tarail Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Kishoreganj",
+            "upz_name": "Austagram Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Kishoreganj",
+            "upz_name": "Katiadi Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Kishoreganj",
+            "upz_name": "Bajitpur Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Kishoreganj",
+            "upz_name": "Kishoreganj Sadar Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Kishoreganj",
+            "upz_name": "Nikli Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Kishoreganj",
+            "upz_name": "Bhariab Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Kishoreganj",
+            "upz_name": "Hossainpur Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Kishoreganj",
+            "upz_name": "Itna Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Kurigram",
+            "upz_name": "Char Rajibpur Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Kurigram",
+            "upz_name": "Nageshwari Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Kurigram",
+            "upz_name": "Ulipur Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Kurigram",
+            "upz_name": "Rajarhat Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Kurigram",
+            "upz_name": "Chilmari Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Kurigram",
+            "upz_name": "Fulbari KG Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Kurigram",
+            "upz_name": "Kurigram Sadar Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Kurigram",
+            "upz_name": "Bhurungamari Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Kurigram",
+            "upz_name": "Roumari Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Kustia",
+            "upz_name": "Khoksa Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Kustia",
+            "upz_name": "Kushtia Sadar Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Kustia",
+            "upz_name": "Kumarkhali Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Kustia",
+            "upz_name": "Mirpur Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Kustia",
+            "upz_name": "Bheramara Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Kustia",
+            "upz_name": "Daulatpur KT Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Lakshmipur",
+            "upz_name": "Raipur Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Lakshmipur",
+            "upz_name": "Ramganj Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Lakshmipur",
+            "upz_name": "Komolnogor Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Lakshmipur",
+            "upz_name": "Ramgoti Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Lakshmipur",
+            "upz_name": "Lakshmipur Sadar Upazilla"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Lalmonirhat",
+            "upz_name": "Lalmonirhat Sadar Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Lalmonirhat",
+            "upz_name": "Patgram Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Lalmonirhat",
+            "upz_name": "Hatibandha Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Lalmonirhat",
+            "upz_name": "Kaliganj LH Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Lalmonirhat",
+            "upz_name": "Aditmari Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Madaripur",
+            "upz_name": "Kalkini Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Madaripur",
+            "upz_name": "Madaripur Sadar Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Madaripur",
+            "upz_name": "Shib Char Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Madaripur",
+            "upz_name": "Rajoir Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Magura",
+            "upz_name": "Shalikha Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Magura",
+            "upz_name": "Sreepur Upazila magura"
+        },
+        {
+            "div": "Khulna",
+            "district": "Magura",
+            "upz_name": "Mohammadpur Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Magura",
+            "upz_name": "Magura Sadar Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Manikganj",
+            "upz_name": "Shibalaya Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Manikganj",
+            "upz_name": "Manikganj Sadar Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Manikganj",
+            "upz_name": "Ghior Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Manikganj",
+            "upz_name": "Daulatpur MG Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Manikganj",
+            "upz_name": "Saturia Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Manikganj",
+            "upz_name": "Harirampur Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Manikganj",
+            "upz_name": "Singair Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Meherpur",
+            "upz_name": "Mujibnagar Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Meherpur",
+            "upz_name": "Gangni Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Meherpur",
+            "upz_name": "Meherpur Sadar Upazila"
+        },
+        {
+            "div": "Shylet",
+            "district": "Moulvibazar",
+            "upz_name": "Rajnagar Upazila"
+        },
+        {
+            "div": "Shylet",
+            "district": "Moulvibazar",
+            "upz_name": "Maulavi Bazar Sadar Upazila"
+        },
+        {
+            "div": "Shylet",
+            "district": "Moulvibazar",
+            "upz_name": "Barlekha Upazila"
+        },
+        {
+            "div": "Shylet",
+            "district": "Moulvibazar",
+            "upz_name": "Juri Upazila"
+        },
+        {
+            "div": "Shylet",
+            "district": "Moulvibazar",
+            "upz_name": "Sreemangal Upazila"
+        },
+        {
+            "div": "Shylet",
+            "district": "Moulvibazar",
+            "upz_name": "Kamalganj Upazila"
+        },
+        {
+            "div": "Shylet",
+            "district": "Moulvibazar",
+            "upz_name": "Kulaura Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Munshiganj",
+            "upz_name": "Serajdikhan Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Munshiganj",
+            "upz_name": "Gazaria Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Munshiganj",
+            "upz_name": "Lohajang Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Munshiganj",
+            "upz_name": "Tongibari Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Munshiganj",
+            "upz_name": "Munshiganj Sadar Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Munshiganj",
+            "upz_name": "Sreenagar Upazila"
+        },
+        {
+            "div": "Mymensingh",
+            "district": "Mymensingh",
+            "upz_name": "Gaffargaon Upazila"
+        },
+        {
+            "div": "Mymensingh",
+            "district": "Mymensingh",
+            "upz_name": "Ishwarganj Upazila"
+        },
+        {
+            "div": "Mymensingh",
+            "district": "Mymensingh",
+            "upz_name": "Fulpur Upazila"
+        },
+        {
+            "div": "Mymensingh",
+            "district": "Mymensingh",
+            "upz_name": "Fulbaria Upazila"
+        },
+        {
+            "div": "Mymensingh",
+            "district": "Mymensingh",
+            "upz_name": "Mymensingh Sadar Upazila"
+        },
+        {
+            "div": "Mymensingh",
+            "district": "Mymensingh",
+            "upz_name": "Bhaluka Upazila"
+        },
+        {
+            "div": "Mymensingh",
+            "district": "Mymensingh",
+            "upz_name": "Muktagachha Upazila"
+        },
+        {
+            "div": "Mymensingh",
+            "district": "Mymensingh",
+            "upz_name": "Gauripur Upazila"
+        },
+        {
+            "div": "Mymensingh",
+            "district": "Mymensingh",
+            "upz_name": "Dhobaura Upazila"
+        },
+        {
+            "div": "Mymensingh",
+            "district": "Mymensingh",
+            "upz_name": "Trishal Upazila"
+        },
+        {
+            "div": "Mymensingh",
+            "district": "Mymensingh",
+            "upz_name": "Nandail Upazila"
+        },
+        {
+            "div": "Mymensingh",
+            "district": "Mymensingh",
+            "upz_name": "Haluaghat Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Naogaon",
+            "upz_name": "Niamatpur Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Naogaon",
+            "upz_name": "Sapahar Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Naogaon",
+            "upz_name": "Atrai Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Naogaon",
+            "upz_name": "Porsha Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Naogaon",
+            "upz_name": "Rani Nagar Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Naogaon",
+            "upz_name": "Patnitola Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Naogaon",
+            "upz_name": "Badalgachhi Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Naogaon",
+            "upz_name": "Naogaon Sadar Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Naogaon",
+            "upz_name": "Dhamairhat Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Naogaon",
+            "upz_name": "Manda Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Naogaon",
+            "upz_name": "Mahadebpur Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Narail",
+            "upz_name": "Lohagara Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Narail",
+            "upz_name": "Narail Sadar Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Narail",
+            "upz_name": "Kalia Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Narayanganj",
+            "upz_name": "Rupganj Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Narayanganj",
+            "upz_name": "Araihazar Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Narayanganj",
+            "upz_name": "Narayanganj Sadar Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Narayanganj",
+            "upz_name": "Bandar Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Narayanganj",
+            "upz_name": "Sonargaon Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Narsingdi",
+            "upz_name": "Narsingdi Sadar Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Narsingdi",
+            "upz_name": "Manohardi Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Narsingdi",
+            "upz_name": "Belabo Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Narsingdi",
+            "upz_name": "Shibpur Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Narsingdi",
+            "upz_name": "Raipura Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Narsingdi",
+            "upz_name": "Palash Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Natore",
+            "upz_name": "Baraigram Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Natore",
+            "upz_name": "Singra Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Natore",
+            "upz_name": "Lalpur Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Natore",
+            "upz_name": "Natore Sadar Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Natore",
+            "upz_name": "Gurudashpur Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Natore",
+            "upz_name": "Bagatipara Upazila"
+        },
+        {
+            "div": "Mymensingh",
+            "district": "Netrakona",
+            "upz_name": "Netrokona Sadar Upazila"
+        },
+        {
+            "div": "Mymensingh",
+            "district": "Netrakona",
+            "upz_name": "Khaliajuri Upazila"
+        },
+        {
+            "div": "Mymensingh",
+            "district": "Netrakona",
+            "upz_name": "Madan Upazila"
+        },
+        {
+            "div": "Mymensingh",
+            "district": "Netrakona",
+            "upz_name": "Mohanganj Upazila"
+        },
+        {
+            "div": "Mymensingh",
+            "district": "Netrakona",
+            "upz_name": "Kendua Upazila"
+        },
+        {
+            "div": "Mymensingh",
+            "district": "Netrakona",
+            "upz_name": "Barhatta Upazila"
+        },
+        {
+            "div": "Mymensingh",
+            "district": "Netrakona",
+            "upz_name": "Durgapur NK Upazila"
+        },
+        {
+            "div": "Mymensingh",
+            "district": "Netrakona",
+            "upz_name": "Purbadhala Upazila"
+        },
+        {
+            "div": "Mymensingh",
+            "district": "Netrakona",
+            "upz_name": "Kalmakanda Upazila"
+        },
+        {
+            "div": "Mymensingh",
+            "district": "Netrakona",
+            "upz_name": "Atpara Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Nilphamari",
+            "upz_name": "Nilphamari Sadar Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Nilphamari",
+            "upz_name": "Jaldhaka Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Nilphamari",
+            "upz_name": "Saidpur Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Nilphamari",
+            "upz_name": "Domar Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Nilphamari",
+            "upz_name": "Kishoreganj Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Nilphamari",
+            "upz_name": "Dimla Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Noakhali",
+            "upz_name": "Senbag Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Noakhali",
+            "upz_name": "Chatkhil Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Noakhali",
+            "upz_name": "Hatiya Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Noakhali",
+            "upz_name": "Subarna Char Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Noakhali",
+            "upz_name": "Sonaimuri Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Noakhali",
+            "upz_name": "Kabirhat Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Noakhali",
+            "upz_name": "Begumganj Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Noakhali",
+            "upz_name": "Companiganj NK Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Noakhali",
+            "upz_name": "Noakhali Sadar Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Pabna",
+            "upz_name": "Bhangura Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Pabna",
+            "upz_name": "Santhia Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Pabna",
+            "upz_name": "Bera Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Pabna",
+            "upz_name": "Faridpur Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Pabna",
+            "upz_name": "Chatmohor Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Pabna",
+            "upz_name": "Sujanagar Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Pabna",
+            "upz_name": "Atgharia Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Pabna",
+            "upz_name": "Pabna Sadar Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Pabna",
+            "upz_name": "Iswardi Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Panchagarh",
+            "upz_name": "Boda Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Panchagarh",
+            "upz_name": "Panchgarh Sadar Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Panchagarh",
+            "upz_name": "Atwari Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Panchagarh",
+            "upz_name": "Debiganj Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Panchagarh",
+            "upz_name": "Tetulia Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Patuakhali",
+            "upz_name": "Dumki Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Patuakhali",
+            "upz_name": "Rangabali Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Patuakhali",
+            "upz_name": "Bauphal Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Patuakhali",
+            "upz_name": "Golachipa Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Patuakhali",
+            "upz_name": "Patuakhali Sadar Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Patuakhali",
+            "upz_name": "Mirzaganj Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Patuakhali",
+            "upz_name": "Kalapara Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Patuakhali",
+            "upz_name": "Dashmina Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Pirojpur",
+            "upz_name": "Mathbaria Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Pirojpur",
+            "upz_name": "Bhandaria Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Pirojpur",
+            "upz_name": "Nazirpur Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Pirojpur",
+            "upz_name": "Pirojpur Sadar Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Pirojpur",
+            "upz_name": "Zianagar Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Pirojpur",
+            "upz_name": "Kawkhali PP Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Pirojpur",
+            "upz_name": "Nesarabad Upazila"
+        },
+        {
+            "div": "Barisal",
+            "district": "Pirojpur",
+            "upz_name": "Indurkani Upzaila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Rajbari",
+            "upz_name": "Baliakandi Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Rajbari",
+            "upz_name": "Goalanda Ghat Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Rajbari",
+            "upz_name": "Pangsha Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Rajbari",
+            "upz_name": "Rajbari Sadar Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Rajbari",
+            "upz_name": "Kalukhali Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Rajshahi",
+            "upz_name": "Mohanpur Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Rajshahi",
+            "upz_name": "Baghmara Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Rajshahi",
+            "upz_name": "Bagha Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Rajshahi",
+            "upz_name": "Godagari Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Rajshahi",
+            "upz_name": "Shah makhdum Thana"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Rajshahi",
+            "upz_name": "Charghat Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Rajshahi",
+            "upz_name": "Boalia Thana"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Rajshahi",
+            "upz_name": "Rajshahi CC"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Rajshahi",
+            "upz_name": "Puthiya Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Rajshahi",
+            "upz_name": "Paba Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Rajshahi",
+            "upz_name": "Tanore Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Rajshahi",
+            "upz_name": "Durgapur Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Rajshahi",
+            "upz_name": "Matihar Thana"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Rajshahi",
+            "upz_name": "Rajpara Thana"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Rangamati",
+            "upz_name": "Rangamati Sadar Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Rangamati",
+            "upz_name": "Naniarchar Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Rangamati",
+            "upz_name": "Kaptai Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Rangamati",
+            "upz_name": "Kawkhali RM Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Rangamati",
+            "upz_name": "Langadu Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Rangamati",
+            "upz_name": "Rajasthali Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Rangamati",
+            "upz_name": "Baghai Chhari Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Rangamati",
+            "upz_name": "Barkal Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Rangamati",
+            "upz_name": "Jurai Chhari Upazila"
+        },
+        {
+            "div": "Chattagram",
+            "district": "Rangamati",
+            "upz_name": "Belai Chhari Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Rangpur",
+            "upz_name": "Pirganj RP Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Rangpur",
+            "upz_name": "Rangpur CC"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Rangpur",
+            "upz_name": "Taraganj Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Rangpur",
+            "upz_name": "Gangachara Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Rangpur",
+            "upz_name": "Rangpur Sadar Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Rangpur",
+            "upz_name": "Badarganj Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Rangpur",
+            "upz_name": "Mitha pukur Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Rangpur",
+            "upz_name": "Kaunia Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Rangpur",
+            "upz_name": "Pirgachha Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Satkhira",
+            "upz_name": "Satkhira Sadar Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Satkhira",
+            "upz_name": "Tala Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Satkhira",
+            "upz_name": "Shyamnagar Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Satkhira",
+            "upz_name": "Kalaroa Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Satkhira",
+            "upz_name": "Kaliganj SK Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Satkhira",
+            "upz_name": "Debhata Upazila"
+        },
+        {
+            "div": "Khulna",
+            "district": "Satkhira",
+            "upz_name": "Assasuni Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Shariatpur",
+            "upz_name": "Bhedarganj Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Shariatpur",
+            "upz_name": "Damudya Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Shariatpur",
+            "upz_name": "Gosairhat Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Shariatpur",
+            "upz_name": "Naria Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Shariatpur",
+            "upz_name": "Shariatpur Sadar Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Shariatpur",
+            "upz_name": "Zanzira Upazila"
+        },
+        {
+            "div": "Mymensingh",
+            "district": "Sherpur",
+            "upz_name": "Nakla Upazila"
+        },
+        {
+            "div": "Mymensingh",
+            "district": "Sherpur",
+            "upz_name": "Nalitabari Upazila"
+        },
+        {
+            "div": "Mymensingh",
+            "district": "Sherpur",
+            "upz_name": "Sherpur Sadar Upazila"
+        },
+        {
+            "div": "Mymensingh",
+            "district": "Sherpur",
+            "upz_name": "Jhenaigati Upazila"
+        },
+        {
+            "div": "Mymensingh",
+            "district": "Sherpur",
+            "upz_name": "Sreebardi Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Sirajganj",
+            "upz_name": "Belkuchi Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Sirajganj",
+            "upz_name": "Rayganj Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Sirajganj",
+            "upz_name": "Chauhali Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Sirajganj",
+            "upz_name": "Kazipur Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Sirajganj",
+            "upz_name": "Sirajganj Sadar Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Sirajganj",
+            "upz_name": "Shahjadpur Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Sirajganj",
+            "upz_name": "Tarash Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Sirajganj",
+            "upz_name": "Kamarkhanda Upazila"
+        },
+        {
+            "div": "Rajshahi",
+            "district": "Sirajganj",
+            "upz_name": "Ullahpara Upazila"
+        },
+        {
+            "div": "Shylet",
+            "district": "Sunamganj",
+            "upz_name": "Sunamganj Sadar Upazila"
+        },
+        {
+            "div": "Shylet",
+            "district": "Sunamganj",
+            "upz_name": "Jagannathpur Upazila"
+        },
+        {
+            "div": "Shylet",
+            "district": "Sunamganj",
+            "upz_name": "South Sunamganj Upazalia"
+        },
+        {
+            "div": "Shylet",
+            "district": "Sunamganj",
+            "upz_name": "Derai Upazila"
+        },
+        {
+            "div": "Shylet",
+            "district": "Sunamganj",
+            "upz_name": "Jamalganj Upazila"
+        },
+        {
+            "div": "Shylet",
+            "district": "Sunamganj",
+            "upz_name": "Bishwambarpur Upazila"
+        },
+        {
+            "div": "Shylet",
+            "district": "Sunamganj",
+            "upz_name": "Tahirpur Upazila"
+        },
+        {
+            "div": "Shylet",
+            "district": "Sunamganj",
+            "upz_name": "Sulla Upazila"
+        },
+        {
+            "div": "Shylet",
+            "district": "Sunamganj",
+            "upz_name": "Dharampasa Upazila"
+        },
+        {
+            "div": "Shylet",
+            "district": "Sunamganj",
+            "upz_name": "Chhatak Upazila"
+        },
+        {
+            "div": "Shylet",
+            "district": "Sunamganj",
+            "upz_name": "Dowara Bazar Upazila"
+        },
+        {
+            "div": "Shylet",
+            "district": "Sylhet",
+            "upz_name": "Kanaighat Upazila"
+        },
+        {
+            "div": "Shylet",
+            "district": "Sylhet",
+            "upz_name": "Sylhet Sadar Upazila"
+        },
+        {
+            "div": "Shylet",
+            "district": "Sylhet",
+            "upz_name": "Fenchuganj Upazila"
+        },
+        {
+            "div": "Shylet",
+            "district": "Sylhet",
+            "upz_name": "Dakshin Surma Upazila"
+        },
+        {
+            "div": "Shylet",
+            "district": "Sylhet",
+            "upz_name": "Biswanath Upazila"
+        },
+        {
+            "div": "Shylet",
+            "district": "Sylhet",
+            "upz_name": "Sylhet CC"
+        },
+        {
+            "div": "Shylet",
+            "district": "Sylhet",
+            "upz_name": "Beani Bazar Upazila"
+        },
+        {
+            "div": "Shylet",
+            "district": "Sylhet",
+            "upz_name": "Osmaninagar Thana"
+        },
+        {
+            "div": "Shylet",
+            "district": "Sylhet",
+            "upz_name": "Gowainghat Upazila"
+        },
+        {
+            "div": "Shylet",
+            "district": "Sylhet",
+            "upz_name": "Jaintiapur Upazila"
+        },
+        {
+            "div": "Shylet",
+            "district": "Sylhet",
+            "upz_name": "Golabganj Upazila"
+        },
+        {
+            "div": "Shylet",
+            "district": "Sylhet",
+            "upz_name": "Zakiganj Upazila"
+        },
+        {
+            "div": "Shylet",
+            "district": "Sylhet",
+            "upz_name": "Companiganj SH Upazila"
+        },
+        {
+            "div": "Shylet",
+            "district": "Sylhet",
+            "upz_name": "Balaganj Upazila"
+        },
+        {
+            "div": "Shylet",
+            "district": "Sylhet",
+            "upz_name": "Gopalganj Sadar Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Tangail",
+            "upz_name": "Ghatail Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Tangail",
+            "upz_name": "Basail Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Tangail",
+            "upz_name": "Bhuapur Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Tangail",
+            "upz_name": "Kalihati Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Tangail",
+            "upz_name": "Dhanbari Upzila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Tangail",
+            "upz_name": "Mirzapur Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Tangail",
+            "upz_name": "Nagarpur Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Tangail",
+            "upz_name": "Tangail Sadar Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Tangail",
+            "upz_name": "Gopalpur Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Tangail",
+            "upz_name": "Delduar Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Tangail",
+            "upz_name": "Sakhipur Upazila"
+        },
+        {
+            "div": "Dhaka",
+            "district": "Tangail",
+            "upz_name": "Madhupur Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Thakurgaon",
+            "upz_name": "Thakurgaon Sadar Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Thakurgaon",
+            "upz_name": "Badalgachhi Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Thakurgaon",
+            "upz_name": "Haripur Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Thakurgaon",
+            "upz_name": "Ranisankail Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Thakurgaon",
+            "upz_name": "Baliadangi Upazila"
+        },
+        {
+            "div": "Rangpur",
+            "district": "Thakurgaon",
+            "upz_name": "Pirganj TG Upazila"
+        }
+    ]
+}

@@ -3,7 +3,7 @@
 </template>
 <script>
 	export default{
-		name:'WrongAlert',
+		name:'SuccessMsg',
 		props:{
 			alerts:String
 		}
@@ -11,7 +11,7 @@
 </script>
 <style scoped>
 p{
-	background:red;
+	background:green;
 	color:white;
 	text-align:center;
 }

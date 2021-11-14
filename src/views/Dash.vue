@@ -1,4 +1,7 @@
 <template>
+	<div id="nav">
+		<router-link to="/">login</router-link>
+	</div>
 	<div class="dash">
 		<div class="row">
 			<div class="col-md-3">
@@ -8,6 +11,14 @@
 				<h1>One Health Event Based System Dashboard</h1>
 			</div>
 		</div>
+		<br>
+		<div class="row">
+			<p>One Health Event Based Surveillance Data Visualization
+			(Management) Dashboard is a web based program aimed to help One Health stakeholders by improving the organization and access to local disease prevalence information. Timely and reliable disease information improves adequate recognition and reaction to high impact infections, such as emerging zoonosis, and promotes prevention and a progressive strategy to control. 
+			</p>
+		</div>
+		<!-- 
+		// Menu for dashboard navigaton
 		<div class="row">
 			<p>Please select topics to visualize in dashboard</p>
 			<div>
@@ -27,7 +38,7 @@
 					</label>
 				</div>
 			</div>
-		</div>
+		</div> -->
 		<div v-if="st_topic==1">
 			<Outbreaks/>
 		</div>
