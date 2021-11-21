@@ -37,22 +37,33 @@
 		<img src="../assets/loading.gif" width="200" v-if="is_loading"> <br/>
 		<button class="btn btn-primary" @click="login">Login</button>
 		<p>Don't have any account please <a @click="register">register</a></p>
-		<p>Forget password? <a @click="register">Click here</a></p>
+		<p>Forget password? <a @click="isforget=!isforget">Click here</a></p>
+		<br/>
+		<div v-if="isforget" >
+			<label>Email address* </label>(The email used at the time of registration)
+			<input type="email" v-model="f_emails" class="form-control"/>
+			<WrongAlert :alerts="fp_alerts" />
+			<SuccessMsg :alerts="fp_msg" />
+			<img src="../assets/loading.gif" width="200" v-if="is_forget_loading"> <br/>
+			<button class="btn btn-primary" @click="fp_send_email"> submit </button>
+		</div>
 	</div>
 </template>
 
 <script>
+import SuccessMsg from './SuccessMsg.vue';
 import WrongAlert from './WrongAlert.vue';
 import MyCaptcha from './MyCaptcha.vue';
 import axios from 'axios'
 	export default{
 		name:'Login',
 		props:['params'],
-		components: {WrongAlert,MyCaptcha},
+		components: {WrongAlert,MyCaptcha,SuccessMsg},
 		data(){
 			return{
 				is_loading:false,
-				api:'http://localhost:3000/login',
+				is_forget_loading:false,
+				api:'http://localhost:3000/',
 				emails:'',
 				pass:'',
 				sum:'',
@@ -80,7 +91,11 @@ import axios from 'axios'
 					},
 					text: "5+3=",
 					textSize: 32
-				}
+				},
+				isforget: false,
+				fp_msg:"",
+				fp_alerts:"",
+				f_emails:""
 			}
 		},
 		mounted(){
@@ -97,7 +112,7 @@ import axios from 'axios'
 					return;
 				}
 				this.is_loading=true;
-				axios.post(this.api,{email:this.emails,pass:this.pass})
+				axios.post(this.api+"login",{email:this.emails,pass:this.pass})
 				.then((response) => {
 					this.is_loading=false;
 					if(response.data.data){
@@ -125,6 +140,29 @@ import axios from 'axios'
 				console.log("v1 "+v1+" v2 "+v2);
 				this.image.text = "   "+v1+" + "+v2+" =";
 				this.result = v1+v2;
+			},
+			fp_send_email(){
+				this.is_forget_loading=true;
+				this.fp_msg = "";
+				this.fp_alerts = "";
+				if(!this.f_emails){
+					this.fp_alerts= "Please write email address above";
+				}
+				axios.get(this.api+"forgetpass",{params:{'email':this.f_emails}})
+				.then((response)=>{
+					this.is_forget_loading=false;
+					console.log(response.data.data);
+					if(response.data.data){
+						this.fp_msg = response.data.msg;
+					}else{
+						this.fp_alerts = response.data.msg;
+					}
+				})
+				.catch((err)=>{
+					this.is_forget_loading=false;
+					console.log(err);
+					this.fp_alerts= "Internet error!";
+				})
 			}
 		}
 	}
